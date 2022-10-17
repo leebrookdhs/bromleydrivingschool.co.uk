@@ -20,9 +20,7 @@ if (!defined('ISITSAFETORUN')) {
   </div>
   <!-- ======= Header ======= -->
   <header id="header" class="d-flex align-items-center">
-    <div class="container d-flex align-items-center justify-content-start"> <a href="index.php" class="logo"><img
-          src="img/webp/bromley_driving_school_traffic_lights.png" alt="logo" class="img-fluid"
-          style="width: 200px; height:auto;aspect-ratio:225/225; min-width: 150px;">
+    <div class="container d-flex align-items-center justify-content-start"> <a href="index.php" class="logo"><?php echo file_get_contents("img/logos/bromley-driving-school-logo.svg"); ?>
         <h1 class="d-none">Bromley Driving School - Driving Excellence Forward</h1>
       </a>
 

@@ -35,8 +35,8 @@ require 'headerNav.php';
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-auto"><a href="https://play.google.com/store/apps/details?id=com.totaldrive.com.totaldrive" target="_blank"><img class="p-2" src="/img/logos/googleplay.png" width="200px" height="auto" alt="Get it on Google Play" loading="auto" /></a></div>
-                        <div class="col-auto"><a href="https://itunes.apple.com/gb/app/total-drive/id1446269375#?platform=iphone" target="_blank"><img class="p-2" src="/img/logos/applestore.png" width="200" height="auto" alt="Download on the App Store" loading="auto" /></a></div>
+                        <div class="col-auto"><a href="https://play.google.com/store/apps/details?id=com.totaldrive.com.totaldrive" target="_blank"><img class="p-2" src="/img/logos/googleplay.png" width="200px" height="72px" alt="Get it on Google Play" loading="auto" /></a></div>
+                        <div class="col-auto"><a href="https://itunes.apple.com/gb/app/total-drive/id1446269375#?platform=iphone" target="_blank"><img class="p-2" src="/img/logos/applestore.png" width="200" height="72px" alt="Download on the App Store" loading="auto" /></a></div>
                     </div>
                 </div>
             </div>

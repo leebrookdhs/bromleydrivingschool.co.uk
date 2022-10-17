@@ -18,7 +18,7 @@ if (!defined('ISITSAFETORUN')) {
           </p>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6 text-center text-lg-start d-flex flex-column item border">
-          <h5 class="mb-2 fw-bold"><span class="text-success fw-bolder display-6"> P</span>olicies</h5>
+          <h3 class="mb-2 fw-bold"><span class="text-success fw-bolder display-6"> P</span>olicies</h3>
           <ul class="list-unstyled">
             <li class="my-3"><a class="link-secondary" href="terms.php">Terms &amp; Conditions</a></li>
             <li class="my-3"><a class="link-secondary" href="privacy.php">Privacy policy</a></li>
@@ -45,6 +45,7 @@ if (!defined('ISITSAFETORUN')) {
 <script async src="assets/js/bootstrap.bundle.min.js"></script>
 <!-- <script async src="assets/js/swiper-bundle.min.js"></script> -->
 <script async src="assets/js/main.js"></script>
+<script async src="assets/js/BackgroundLazyLoader.js"></script>
 <script defer src="assets/js/cookieconsent.js"></script>
 <script defer src="assets/js/cookieconsent-init.js"></script>
 </body>

@@ -7,7 +7,8 @@ if (!defined('ISITSAFETORUN')) {
 ?>
 <!-- ======= CTA Banner Section ======= -->
 <section class="py-4 py-xl-5">
-    <div class="bg-image" style="height: 250px; background-image: url(img/webp/bromley_driving_school_driving_cta_copy.webp);background-position: center;background-size: cover;">
+    <!-- <div id="cta" class="bg-image" style="height: 250px; background-image: url(img/webp/bromley_driving_school_driving_cta_copy.webp);background-position: center;background-size: cover;"> -->
+    <div id="cta" data-background-image-url="/img/webp/bromley_driving_school_driving_cta_copy.webp">
         <div class="container h-100">
             <div class="row h-100">
                 <div class="col-md-10 text-center text-md-start d-flex d-sm-flex d-md-flex justify-content-center align-items-center justify-content-md-start align-items-md-center justify-content-xl-center">

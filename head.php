@@ -38,6 +38,8 @@ if (!defined('ISITSAFETORUN')) {
     <link rel="stylesheet" href="css/cookieconsent.css" media="print" onload="this.media='all'">
     <!-- Template Main CSS File -->
     <link as="style" href="css/style.css" onload="this.onload=null;this.rel='stylesheet'" rel="preload" />
+    
+    
 </head>
 
 <body>
