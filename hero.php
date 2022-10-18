@@ -9,7 +9,7 @@ if (!defined('ISITSAFETORUN')) {
     <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
       <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
       <div class="carousel-inner" role="listbox">
-        <div class="carousel-item active" style="background-image:url(img/webp/bromley_driving_school_ihero1.webp)">
+        <div class="carousel-item active" style="background-image:url(img/webp/bromleydrivingschool_hero1..webp)">
           <div class="carousel-container">
             <div class="container-fluid">
               <h2 class="d-flex animate__animated animate__fadeInDown">Drive with Confidence</h2>

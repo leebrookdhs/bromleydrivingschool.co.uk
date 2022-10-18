@@ -52,7 +52,7 @@ require 'headerNav.php';
                         <picture>
                             <source type="image/webp" srcset="img/webp/provisional.webp">
                             <source type="image/jpg" srcset="img/webp/provisional.jpg">
-                            <img src="img/webp/provisional.jpg" alt="Part of a UK provisional driving licence" class="img-fluid d-flex align-items-center justify-content-center">
+                            <img src="img/webp/provisional.jpg" alt="Part of a UK provisional driving licence" class="img-fluid d-flex align-items-center justify-content-center" style="width:500px;height:auto;aspect-ratio:500/500">
                         </picture>
                     </div>
                 </div>

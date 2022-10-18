@@ -37,7 +37,7 @@ require 'headerNav.php';
             <picture>
                 <source type="image/webp" srcset="img/webp/passplus.webp">
                 <source type="image/jpg" srcset="img/webp/passplus.jpg">
-                <img src="img/webp/passplus.jpg" alt="Pass plus p-plate" class="img-fluid d-flex align-items-center justify-content-center" loading="lazy">
+                <img src="img/webp/passplus.jpg" alt="Pass plus p-plate" class="img-fluid d-flex align-items-center justify-content-center" style="width:500px;height:auto;aspect-ratio:500/329">
             </picture>
         </div>
         <div class="col-md-6 text-start order-sm-3">
@@ -88,7 +88,7 @@ require 'headerNav.php';
             <picture>
                 <source type="image/webp" srcset="img/webp/passplus_sign.webp">
                 <source type="image/jpg" srcset="img/webp/passplus_sign.jpg">
-                <img src="img/webp/passplus_sign.jpg" alt="Pass plus motorway sign" class="img-fluid d-flex align-items-center justify-content-center" style="width: 336px;height:auto;aspect-ratio:336/450;">
+                <img data-lazy-src="img/webp/passplus_sign.jpg" alt="Pass plus motorway sign" class="img-fluid d-flex align-items-center justify-content-center lazy" style="width: 336px;height:auto;aspect-ratio:336/450;">
             </picture>
             <div class="col-sm-12 col-md-6 col-lg-6 order-sm-5 order-md-5">
                 <div class="info-box mt-4"> <i class="bx bx-envelope ms-2"></i>
