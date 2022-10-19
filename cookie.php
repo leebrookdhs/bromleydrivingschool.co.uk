@@ -13,7 +13,7 @@ require 'headerNav.php';
     <section id="breadcrumbs" class="breadcrumbs p-0">
         <div class="container">
             <ol>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li>Cookie policy</li>
             </ol>
             <h2>Cookie Policy for Bromley Driving School</h2>

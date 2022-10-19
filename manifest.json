@@ -1,1 +1,9 @@
-{"icons":[],"display":"fullscreen"}
+{
+    "name": "Bromley Driving School",
+    "short_name": "Bromley Driving School",
+    "theme_color": "#198754",
+    "background_color": "#2196f3",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "https://bromleydrivingschool.co.uk"
+  }

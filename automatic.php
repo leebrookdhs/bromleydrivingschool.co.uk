@@ -5,7 +5,7 @@ $seodescription = 'Bromley Driving School deliver driving lessons in Bromley, Ke
 $keyewords = '';
 require 'head.php';
 require 'headerNav.php';
-?>
+?> 
 <main id="main">
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
@@ -36,7 +36,7 @@ require 'headerNav.php';
                         <picture>
                             <source type="image/webp" srcset="img/webp/automatic_gear.webp">
                             <source type="image/jpg" srcset="img/webp/automatic_gear.jpg">
-                            <img src="img/webp/automatic_gear.jpg" alt="Automatic gear stick" class="img-fluid d-flex align-items-center justify-content-center">
+                            <img src="img/webp/automatic_gear.jpg" alt="Automatic gear stick" class="img-fluid d-flex align-items-center justify-content-center" style="width:600px;height: auto;aspect-ratio: 600/600;">
                         </picture>
                     </div>
                 </div>

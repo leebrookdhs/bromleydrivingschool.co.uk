@@ -13,7 +13,7 @@ require 'headerNav.php';
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="container">
             <ol class="mt-5">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li>Contact us</li>
             </ol>
             <h2 class="mt-2">Contact us</h2>
