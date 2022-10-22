@@ -1,0 +1,32 @@
+{
+  "sitemap.xml": {
+    "Protocol": "https",
+    "DomainName": "bromleydrivingschool.co.uk",
+    "Root": "./",
+    "IncludeExt": [
+      ".php"
+    ],
+    "Exclude": [
+      ".html",
+      "cta.php",
+      "about.php",
+      "head.php",
+      "headerav.php",
+      "hero.php",
+      "inner-p.php",
+      "monster.php",
+      "footer.php"
+    ],
+    "TagsToInclude": [
+      "priority",
+      "lastmod"
+    ],
+    "DefaultChangeFrequency": "monthly",
+    "TabCharacters": "\t",
+    "bIncludeWWW": true,
+    "bRemoveFileExtentions": false,
+    "bUseTrailingSlash": false,
+    "bAutomaticallyUpdateSitemap": true,
+    "bMinimized": false
+  }
+}

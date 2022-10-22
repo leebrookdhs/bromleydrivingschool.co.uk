@@ -23,7 +23,7 @@ if (!defined('ISITSAFETORUN')) {
     <title>Bromley Driving School - <?php echo $mytitle ?></title>
     <meta content="<?php echo $seodescription ?>" name="description">
     <meta content="<?php echo $keywords ?>" name="keywords">
-    <meta name="theme-color" content="#d1e7dd">
+    <link rel="manifest" href="manifest.json" />
     <meta property="og:type" content="website">
     <meta property="og:title" content="Bromley Driving School - <?php echo $mytitle ?>.">
     <!-- Favicons -->
