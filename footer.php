@@ -27,7 +27,7 @@ if (!defined('ISITSAFETORUN')) {
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 text-center text-lg-start d-flex flex-column align-items-center order-last align-items-lg-start order-lg-last item social border">
           <div class="fw-bold d-flex justify-content-center align-items-center mb-2">
-            <img src="img/logos/stripe-badge-transparent.png" alt="Stripe Trust badge. Credit card payment logos" class="img-fluid mx-auto" loading="lazy" style="width:600px;height:200px;">
+            <img src="img/logos/stripe-badge-transparent.png" alt="Stripe Trust badge. Credit card payment logos" class="img-fluid mx-auto" loading="lazy" style="width:532px;height:auto;aspect-ratio:532/200">
           </div>
         </div>
       </div>

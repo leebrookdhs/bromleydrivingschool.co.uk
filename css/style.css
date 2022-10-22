@@ -2350,9 +2350,8 @@ body[data-aos-delay="100"] [data-aos].aos-animate {
 }
 
 div#cta {
-    height: 250px;
-    background-position: center;
-    background-size: cover
+    background: rgb(35,136,35);
+background: linear-gradient(180deg, rgba(35,136,35,1) 0%, rgba(35,136,35,0.5) 100%);
 }
 
 div.bg-image {
