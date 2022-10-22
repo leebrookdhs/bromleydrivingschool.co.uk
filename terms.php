@@ -1,7 +1,7 @@
 <?php
 define('ISITSAFETORUN', TRUE); // flag to be tested by all required pages before they run. See explanations in block text.
 $mytitle = 'Terms &amp; Conditions'; //Text to be used by head.php as title
-$seodescription = '"Website Terms &amp; conditions for Bromley Driving School';
+$seodescription = '"Website Terms &amp; conditions for Bromley Driving School Ltd';
 $keyewords = '';
 require 'head.php';
 require 'headerNav.php';
@@ -14,7 +14,7 @@ require 'headerNav.php';
                 <li><a href="index.php">Home</a></li>
                 <li>Terms &amp; Conditions</li>
             </ol>
-            <h2>Terms &amp; Conditions for Bromley Driving School</h2>
+            <h2>Terms &amp; Conditions for BromleyDrivingSchool Ltd</h2>
         </div>
     </section>
     <!-- End Breadcrumbs -->
@@ -65,7 +65,7 @@ require 'headerNav.php';
                         views and opinions. To the extent permitted by applicable laws, Bromley Driving School shall not be liable
                         for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use
                         of and/or posting of and/or appearance of the Comments on this website.</p>
-                    <p>Bromley Driving School reserves the right to monitor all Comments and to remove any Comments which can be
+                    <p>BromleyDrivingSchool Ltd reserves the right to monitor all Comments and to remove any Comments which can be
                         considered inappropriate, offensive or causes breach of these Terms and Conditions.</p>
                     <p>You warrant and represent that:</p>
                     <ul>

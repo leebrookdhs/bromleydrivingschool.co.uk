@@ -11,7 +11,7 @@ require 'headerNav.php';
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="container">
             <ol>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li>Beginner pre-test driving lessons</li>
             </ol>
             <h2 class="mb-0"><span class="text-danger fw-bolder display-6 mb-0">L</span>earn to drive &amp; <span class="text-success fw-bolder display-6 mb-0">P</span>ass your test

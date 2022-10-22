@@ -12,7 +12,7 @@ require 'headerNav.php';
     <section id="breadcrumbs" class="breadcrumbs">
         <div class="container">
             <ol>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li>Intensive driving lessons</li>
             </ol>
             <h2 class="mt-2">Intensive <span class="text-danger fw-bolder mb-0 display-6">L</span>earning to get your driving <span class="text-danger fw-bolder mb-0 display-6">L</span>icence in a flash</h2>

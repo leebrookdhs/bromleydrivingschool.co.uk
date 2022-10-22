@@ -11,7 +11,7 @@ require 'headerNav.php';
 <section id="breadcrumbs" class="breadcrumbs">
     <div class="container">
         <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Blog</li>
         </ol>
         <h2 class="mt-2">Bromley Driving School Blog Posts</h2>
