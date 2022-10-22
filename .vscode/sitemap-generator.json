@@ -11,11 +11,45 @@
       "cta.php",
       "about.php",
       "head.php",
-      "headerav.php",
+      "headerNav.php",
       "hero.php",
       "inner-p.php",
       "monster.php",
-      "footer.php"
+      "footer.php",
+      "forms/**",
+      "assets/**"
+    ],
+    "TagsToInclude": [
+      "priority",
+      "lastmod"
+    ],
+    "DefaultChangeFrequency": "monthly",
+    "TabCharacters": "\t",
+    "bIncludeWWW": true,
+    "bRemoveFileExtentions": false,
+    "bUseTrailingSlash": false,
+    "bAutomaticallyUpdateSitemap": true,
+    "bMinimized": false
+  },
+  "sitemap2.xml": {
+    "Protocol": "https",
+    "DomainName": "bromleydrivingschool.co.uk",
+    "Root": "./",
+    "IncludeExt": [
+      ".php"
+    ],
+    "Exclude": [
+      ".html",
+      "cta.php",
+      "about.php",
+      "head.php",
+      "headerNav.php",
+      "hero.php",
+      "inner-p.php",
+      "monster.php",
+      "footer.php",
+      "forms/**",
+      "assets/**"
     ],
     "TagsToInclude": [
       "priority",
