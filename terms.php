@@ -1,7 +1,7 @@
 <?php
 define('ISITSAFETORUN', TRUE); // flag to be tested by all required pages before they run. See explanations in block text.
 $mytitle = 'Terms &amp; Conditions'; //Text to be used by head.php as title
-$seodescription = '"Website Terms &amp; conditions for Bromley Driving School Ltd';
+$seodescription = '"Website Terms &amp; conditions for BromleyDrivingSchool Ltd';
 $keyewords = '';
 require 'head.php';
 require 'headerNav.php';
@@ -23,8 +23,9 @@ require 'headerNav.php';
         <div class="container py-0">
             <div class="row">
                 <div class="col-md-8">
-                    <h2>Terms &amp; Conditions</h2>
                     <p>Welcome to Bromley Driving School!</p>
+                    <p>bromleydrivingshool.co.uk is a site operated by BromleyDrivingSchool Ltd (“We"); we are a COMPANY registered in England and Wales under registration number 14390108. Our registered office is 58 Shaxton Crescent, Croydon, CR0 0NU.</p>
+                    <p>We are regulated by the DVSA and authorised and regulated by the DVSA</p>
                     <p>These terms and conditions outline the rules and regulations for the use of Bromley Driving School's
                         Website, located at <a href="https://bromleydrivingschool.co.uk">Bromley Driving School website</a> (https://bromleydrivingschool.co.uk)</p>
                     <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use Bromley

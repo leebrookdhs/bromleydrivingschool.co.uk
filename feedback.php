@@ -28,7 +28,7 @@ require 'headerNav.php';
   <section id="testimonials" class="testimonials section-bg">
     <div class="container">
       <div class="section-title">
-      <h2>Feedback &amp; Testimonials</h2>
+      <h2><?php echo file_get_contents("img/svg/feedback.svg"); ?>Feedback &amp; Testimonials</h2>
           <p>Here is some of the feedback and experiences from our ex-pupils and alumni. Please, feel free to add your own experience, if we have taught you previously.</p>
       </div>
       <div class="carousel slide" data-bs-ride="carousel" data-bs-interval="10000" id="carousel-t">
