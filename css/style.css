@@ -2350,8 +2350,8 @@ body[data-aos-delay="100"] [data-aos].aos-animate {
 }
 
 div#cta {
-    background: rgb(35,136,35);
-background: linear-gradient(180deg, rgba(35,136,35,1) 0%, rgba(35,136,35,0.5) 100%);
+    background: rgb(35, 136, 35);
+    background: linear-gradient(180deg, rgba(35, 136, 35, 1) 0%, rgba(35, 136, 35, .5) 100%)
 }
 
 div.bg-image {
